@@ -1,4 +1,6 @@
-﻿image = imread("A.jpg);
+﻿
+%read imput image , 'A.jpg' is filename 
+image = imread("A.jpg);
 imshow(image);
 
 %convert rgb image to gray image
